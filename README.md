@@ -2,6 +2,6 @@
 ### A little about me:
 
 - 💻 I’m currently working on an E2EE Chat Application ("Chatto")
-- 🌱 I’m currently learning <img alt="SolidStart" src="https://img.shields.io/badge/SolidStart-2C4F7C?logo=solid&logoColor=white" /> & 
+- 🌱 I’m currently learning <img alt="SolidStart" src="https://img.shields.io/badge/SolidStart-2C4F7C?logo=solid&logoColor=white" />  
 - 🤝 I’m looking to collaborate on ✨_anything!_✨
 - 📫 How to reach me: -> tylerworkingemail@gmail.com <-
